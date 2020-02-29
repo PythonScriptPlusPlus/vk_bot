@@ -154,7 +154,7 @@ def write_msg(user_id, msg, keyboard=False):
 
 
 # API-ключ созданный ранее
-token = "3fd3dac19c9154b58352d0efb3d1479d782b3d02e02ab9d16be64668a3638b5be07a337c7eff7241d2af2"
+token = "3fd3dac19c9154b58352d0efb3d1479d782b3d02e02ab9d16be64668a3638b5be07a337c7eff7241d****"
 # Переменная для проверки начала программы/цикла
 answer = 0
 
